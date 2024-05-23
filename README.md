@@ -88,6 +88,8 @@ Pinia is the most similar English pronunciation of the word _pineapple_ in Spani
 
 ## FAQ
 
+[Some title here](Pinia-Cheat-Sheet.pdf)
+
 A few notes about the project and possible questions:
 
 **Q**: _Is Pinia the successor of Vuex?_
