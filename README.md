@@ -11,6 +11,9 @@
 </p>
 <br/>
 
+### [USAGE](Pinia-Cheat-Sheet.pdf) 
+
+
 # Pinia
 
 > Intuitive, type safe and flexible Store for Vue
@@ -88,7 +91,6 @@ Pinia is the most similar English pronunciation of the word _pineapple_ in Spani
 
 ## FAQ
 
-[Some title here](Pinia-Cheat-Sheet.pdf)
 
 A few notes about the project and possible questions:
 
